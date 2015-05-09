@@ -16,4 +16,4 @@ I think here is paragraph.
 ### test3
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title is here")
 ### test4
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/404.jpg "an image title")
