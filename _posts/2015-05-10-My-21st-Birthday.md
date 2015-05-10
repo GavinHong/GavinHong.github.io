@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: My-21st-Birthday
 published: true
