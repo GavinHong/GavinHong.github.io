@@ -15,6 +15,3 @@ Link above is my first network guide, is Dinic Algorithms.
 
 
 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
